@@ -1,0 +1,25 @@
+.details-main-div {
+  background-color: black;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  color: white
+}
+.company-details-content {
+  padding: 3rem 6vw;
+}
+.card-container-details {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.company-details-heading > h1 {
+  font-size: 5rem;
+}
+.details-graph {
+  display: flex;
+  padding: 0;
+}
+.company-key-stats {
+  margin-bottom: 2rem;
+}
